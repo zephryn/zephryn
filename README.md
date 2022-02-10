@@ -1,1 +1,1 @@
-i mostly use this account for contributing to existing projects and organizations as well as keeping track of devs, projects and gists that are pretty neat. you can find my own projects over at my [sourcehut page](https://sr.ht/~zephryn/).
+I mostly use this account for contributing to existing projects/organizations as well as keeping track of devs, projects and gists that are pretty neat. You can find my own projects over at my [sourcehut page](https://git.sr.ht/~zephryn).
